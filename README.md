@@ -1,25 +1,55 @@
-Hi There👋
-===================================================================================================================================
+# Hi there 👋, I'm Jakarta1337!
 
-Jakarta1337
------------
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=test&label=Profile%20views&color=0e75b6&style=flat" alt="test" /> </p>
-Pentester
+![Banner](https://i.imgur.com/your-custom-banner.png) <!-- Replace with your own banner, or remove this line -->
 
-*   🌍  I'm based in Morocco 🇲🇦
+## 🚀 About Me
 
-### Skills 
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a><a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Laravel" /></a><a href="https://store.arduino.cc/?gclid=Cj0KCQjw2eilBhCCARIsAG0Pf8uueBifykWcsSS4LPESeGQfxGVKJYnzV7bz471XfknQJy_1VINVWM8aAkLtEALw_wcB" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" width="36" height="36" alt="Arduino" /></a><a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/raspberrypi-colored.svg" width="36" height="36" alt="Raspberry Pi" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
-                    </p>
-                    
+I'm a passionate Full Stack Developer and lifelong learner. I love building cool projects, exploring new tech, and contributing to open source. When I'm not coding, you'll probably find me tinkering with gadgets or learning something new online.
 
-### Badges
+- 🧑‍💻 Profession: Full Stack Developer
+- 🏆 Top Skills: JavaScript, Python, React, Node.js, Docker, Git
+- 🌱 Currently learning: Rust & AI/ML
+- 🛠️ Tools I love: VS Code, Linux, GitHub Actions
+- 🤝 Open to collaborating on exciting projects!
 
-<b>My GitHub Stats</b>
+## 🔥 My Top Projects
 
-<a href="http://www.github.com/Jakarta1337"><img src="https://github-readme-stats.vercel.app/api?username=Jakarta1337&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Jakarta1337's GitHub stats" /></a>
+- [Awesome Project 1](https://github.com/Jakarta1337/awesome-project-1): A brief description of what this project does.
+- [Cool Automation Bot](https://github.com/Jakarta1337/cool-automation-bot): Automates boring stuff so you don't have to.
+- [Portfolio Website](https://jakarta1337.dev): My personal portfolio and blog.
 
-<a href="http://www.github.com/Jakarta1337"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Jakarta1337&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+## 📫 How to Reach Me
 
-<a href="https://github.com/Jakarta1337" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jakarta1337&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/jakarta1337)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/jakarta1337)
+[![Website](https://img.shields.io/badge/Website-Visit-2ea44f?logo=google-chrome&logoColor=white)](https://jakarta1337.dev)
+
+## 🤓 Fun Facts
+
+- ☕ Runs on coffee and curiosity
+- 🎸 Plays guitar for fun
+- 🌍 Loves learning new languages (both spoken & programming!)
+- 🐧 Proud Linux user
+
+## 🧰 Tech Stack
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![React](https://img.shields.io/badge/-React-20232A?logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
+
+## 📊 GitHub Stats
+
+![Jakarta1337's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jakarta1337&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jakarta1337&layout=compact&theme=tokyonight)
+
+---
+
+> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+
+<!--
+✨ Feel free to update this README with your real info!
+-->
