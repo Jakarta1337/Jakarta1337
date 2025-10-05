@@ -1,7 +1,5 @@
-Hi There👋
-===================================================================================================================================
-
-Jakarta1337
+<h1 align="center">Hi 👋, I'm Jakarta1337</h1>
+<h3 align="center">A passionate frontend Engineer</h3>
 -----------
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=test&label=Profile%20views&color=0e75b6&style=flat" alt="test" /> </p>
 Pentester
@@ -14,10 +12,8 @@ Pentester
 
 ### Badges
 
-<b>My GitHub Stats</b>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jakarta1337&show_icons=true&locale=en&layout=compact" alt="jakarta1337" /></p>
 
-<a href="http://www.github.com/Jakarta1337"><img src="https://github-readme-stats.vercel.app/api?username=Jakarta1337&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Jakarta1337's GitHub stats" /></a>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jakarta1337&show_icons=true&locale=en" alt="jakarta1337" /></p>
 
-<a href="http://www.github.com/Jakarta1337"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Jakarta1337&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="https://github.com/Jakarta1337" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jakarta1337&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jakarta1337&" alt="jakarta1337" /></p>
